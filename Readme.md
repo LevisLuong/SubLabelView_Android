@@ -4,9 +4,9 @@
 
 Sometimes we need to show a label view above a ImageView or others, labelview will help you, let code easy.
 
-![](./img/img1.png)
+![](./img1.png)
 
-![](./img/img3.png)
+![](./img3.png)
 
 
 # import your project
@@ -31,7 +31,7 @@ LabelView extended TextView so you can use TextView all method.
 
 the second parameter means distance(unit dip).
 
-![](./img/img2.png)
+![](./img2.png)
 
 the third parameter means gravity (only LEFT_TOP and RIGHT_TOP)
 
